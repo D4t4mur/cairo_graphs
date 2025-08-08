@@ -7,3 +7,5 @@ The dataset needed for this course assessment is not publicly shareable.
 If you require access to the data for running the code, please contact the author directly.
 
 Special thanks to the creator of the dataset *Henri Debray* for making this work possible.
+
+![Urban Morphology of parts of Cairo](Cairo_Urban_Morphology.png)
