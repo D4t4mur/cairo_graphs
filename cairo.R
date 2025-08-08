@@ -18,8 +18,8 @@ library(maptiles)
 library(ggspatial)
 
 # setting the file-paths
-Cairo_structured <- "C:/Users/Niklas/Downloads/NewCairo_structured.gpkg"
-Cairo_unstructured <- "C:/Users/Niklas/Downloads/NewCairo_unstructured.gpkg"
+Cairo_structured <- "C:/Daten/JMU - Dokumente/Scientific graphs/cairo_project/NewCairo_structured.gpkg"
+Cairo_unstructured <- "C:/Daten/JMU - Dokumente/Scientific graphs/cairo_project/NewCairo_unstructured.gpkg"
 
 # loading the polygons
 structured <- st_read(Cairo_structured)
